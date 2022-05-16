@@ -1,7 +1,7 @@
 ---
 title: 'About'
 description: 'Hi, my name is Duc. I am a Software Development Fresher at ZaloPay!'
-featured_image: '/images/about/sky.webp'
+featured_image: 'https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408.jpg'
 menu:
   main:
     weight: 1
