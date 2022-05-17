@@ -3,7 +3,7 @@ title: 'Some information about milk tea'
 date: 2022-05-14T17:38:50+07:00
 draft: false
 description: 'I love milk tea'
-featured_image: '/images/milk-tea/bubble-milk-tea.jpg'
+featured_image: 'images/milk-tea/bubble-milk-tea.jpg'
 tags: ['Life', 'Food']
 ---
 

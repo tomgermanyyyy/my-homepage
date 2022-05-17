@@ -3,7 +3,7 @@ title: 'System Design'
 date: 2022-05-15T17:38:50+07:00
 draft: false
 description: 'How to build a large scale system'
-featured_image: '/images/system-design/system-design.png'
+featured_image: 'images/system-design/system-design.png'
 tags: ['Tech', 'System Design', 'VNG', 'VTF-2022']
 ---
 
